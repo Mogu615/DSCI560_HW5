@@ -5,7 +5,7 @@
 pip install virtualenv
 ```
 ```
-python -m venv dsci560H4
+python -m venv dsci560hw5
 ```
 ```
 source dsci560hw5/bin/activate
