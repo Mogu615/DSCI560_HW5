@@ -10,6 +10,7 @@ python -m venv dsci560hw5
 ```
 source dsci560hw5/bin/activate
 ```
+![image](https://github.com/Mogu615/DSCI560_HW5/blob/main/picture1.png)
 
 ## install the dependencies 
 ```
@@ -21,6 +22,7 @@ pip install bokeh
 ```
 pip freeze > requirements.txt
 ```
+![image](https://github.com/Mogu615/DSCI560_HW5/blob/main/picture2.png)
 
 ## run the script
 ```
