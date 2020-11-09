@@ -31,6 +31,7 @@ pip install -r requirements.txt
 ```
 Bokeh serve --show resulting.py
 ```
+![image](https://github.com/Mogu615/DSCI560_HW5/blob/main/picture3.png)
 
 ## build container
 - Download the Docker in your computer
@@ -43,7 +44,7 @@ cd DSCI560_HW5
 ```
 - Build the image called dsci560hw5
 ```
-docker build --tag image560 .
+docker build --tag dsci560hw5 .
 ```
 - Run the image
 ```
@@ -53,3 +54,7 @@ docker run -p 5006:5006 -it dsci560hw5
 ```
 http://localhost:5006/resulting
 ```
+
+![image](https://github.com/Mogu615/DSCI560_HW5/blob/main/image1.png)
+![image](https://github.com/Mogu615/DSCI560_HW5/blob/main/image2.png)
+![image](https://github.com/Mogu615/DSCI560_HW5/blob/main/image3.png)
