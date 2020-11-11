@@ -42,13 +42,13 @@ git clone https://github.com/Mogu615/DSCI560_HW5.git
 ```
 cd DSCI560_HW5
 ```
-- Build the image called image_COVID19
+- Build the image called image_covid19
 ```
-docker build --tag image_COVID19 .
+docker build --tag image_covid19 .
 ```
 - Run the image
 ```
-docker run -p 5006:5006 -it image_COVID19
+docker run -p 5006:5006 -it image_covid19
 ```
 - open browser and go to the link below:
 ```
