@@ -54,7 +54,7 @@ docker run -p 5006:5006 -it image_covid19
 ```
 http://localhost:5006/resulting
 ```
-
+![image](https://github.com/Mogu615/DSCI560_HW5/blob/main/picture4.png)
 ![image](https://github.com/Mogu615/DSCI560_HW5/blob/main/image1.png)
 ![image](https://github.com/Mogu615/DSCI560_HW5/blob/main/image2.png)
 ![image](https://github.com/Mogu615/DSCI560_HW5/blob/main/image3.png)
